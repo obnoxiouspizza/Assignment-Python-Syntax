@@ -1,4 +1,4 @@
-# Question 1 Task 1
+# Question 1 Task 1: Code Correction
 
 # Current weather
 weather = "sunny"
@@ -9,7 +9,7 @@ if weather == "sunny":
 else:
     print("Take an umbrella!")
 
-# Question 1 Task 2
+# Question 1 Task 2: Your Mood Today
 
 # Ask user how they are feeling
 mood = input("How are you feeling today?")
